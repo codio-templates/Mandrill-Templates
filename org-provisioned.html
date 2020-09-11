@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html>
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>    
+<body>
+
+<img src="https://global.codio.com/content/logo_print.png" alt="Codio" style="width:133px;height:50px;" class="center">
+<br><br>
+    
+{{#if userName}}
+Hello {{userName}},
+{{else}}
+Hello,
+{{/if}}
+
+User Email: {{userEmail}}
+{{#if orgName}}
+Organization name : {{orgName}}
+
+<h4>Thank you for your interest in Codio!</h4>
+Your account is now ready to use.
+<p>To login to your Codio account, go to <a href="{{codioUrl}}/p/login">{{codioUrl}}/p/login</a> and login with your email address and the password created when you signed up.</p>
+
+<br>
+<h4>Here are a few resources to help you get started:</h4>
+<ul> 
+<li>Take a tour of Codio with our <strong>Onboarding Guide</strong>. Click on <b>My Projects</b> in your dashboard to find it.</li>
+ <br>   
+<li>For an overview of the product, watch our <a href="https://fast.wistia.net/embed/channel/w808w8ubp4?wchannelid=w808w8ubp4">getting started videos.</a></li>
+   <br>
+<li>For a complete reference see the <a href="https://docs.codio.com/">Codio documentation.</a></li>
+   <br>
+<li>View our wide range of curricular resources, that are ready to use, in our <a href="https://www.codio.com/resources">resource library.</a></li>
+    
+</ul>
+    
+</body>
+
+</html>
