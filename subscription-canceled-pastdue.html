@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>    
+<body>
+<img src="https://global.codio.com/content/logo_print.png" alt="Codio" style="width:133px;height:50px;" class="center">
+<br>
+<p>We're sorry but your Codio subscription has now been cancelled as we've been unable to collect the payment.
+</p>
+{{#if isOrg}}
+<p>The private projects of the members of your organization will be disabled, and they will not be able to create any further private projects.
+</p>
+<p>You may re subscribe at any time in the future to regain access to these projects by going to Organisations > Billing
+</p>
+{{else}}
+<p>Access to your private projects has been disabled, and you will not be able to create any private projects.
+</p>
+<p>You may re subscribe at any time in the future to regain access to these projects by going to Codio > Subscription
+{{/if}}
+</p>
+    <br>
+Regards,<br>
+Codio Support Team<br>
+https://codio.com
+    
+</body>
+
+</html>

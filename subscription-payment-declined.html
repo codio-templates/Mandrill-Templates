@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>    
+<body>
+<img src="https://global.codio.com/content/logo_print.png" alt="Codio" style="width:133px;height:50px;" class="center">
+<br>
+IMPORTANT!
+
+<p>We are sorry to say that the payment for your Codio Subscription has been declined. We have been unable to take payment from your credit card.
+</p>
+{{#if isSoftDecline}}
+{{#if isOrg}}
+<p>Don't worry! Your subscription is still active and you and your team can still access all your private and public projects. We will try to take payment again in a few days time, and will email you to let you know the outcome of that.
+</p>
+<p>If you need to update your credit card, sign in to your Codio account at <a href="https://codio.com">https://codio.com</a>. Go to your dashboard and to 'Organisation>Billing' to access your subscription and payment details.
+</p>
+{{else}}
+<p>Don't worry! Your subscription is still active and you can still access all your private and public projects. We will try to take payment again in a few days time, and will email you to let you know the outcome of that.
+</p>
+<p>If you need to update your credit card, sign in to your Codio account at <a href="https://codio.com">https://codio.com</a>. Go to your dashboard and click the 'Codio > Subscription' menu item to access your subscription and payment details.
+</p>
+{{/if}}
+{{else}}
+{{#if isOrg}}
+<p>Don't worry! Your subscription is still active and you and your team can still access all your private and public projects but you need to update your credit card details.
+</p>
+<p>Sign in to your Codio account at <a href="https://codio.com">https://codio.com</a>. Go to your dashboard and to 'Organisation>Billing' to access your subscription and payment details and we will try to take the payment again.
+</p>
+{{else}}
+<p>Don't worry! Your subscription is still active and you can still access all your private and public projects but you need to update your credit card details.
+</p>
+<p>Sign in to your Codio account at <a href="https://codio.com">https://codio.com</a>. Go to your dashboard and click the 'Codio > Subscription' menu item to access your subscription and payment details and we will try to take the payment again.
+</p>
+{{/if}}
+{{/if}}
+<br><br>
+If you have any questions, just reply to this email.
+<br><br>
+Regards,<br>
+Codio Support Team<br>
+https://codio.com
+    
+</body>
+
+</html>
