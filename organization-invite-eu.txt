@@ -1,0 +1,11 @@
+Let’s get started!
+
+You have been invited to the "{{orgName}}" organization on Codio. 
+
+Click the following link to join this organization {{inviteUrl}}.
+
+Thanks for joining the Codio user community. Sign in and start exploring: https://codio.co.uk/p/login
+
+Thank you,
+
+Codio

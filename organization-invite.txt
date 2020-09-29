@@ -1,0 +1,18 @@
+   
+{{#if userName}}
+Hi {{userName}},
+{{else}}
+Hi,
+{{/if}}
+
+You have been invited to the "{{orgName}}" organization on Codio. 
+
+
+Click the following link to join this organization {{inviteUrl}}.
+
+
+Just reply to this email if you need any help. 
+
+Thank you,
+
+Codio

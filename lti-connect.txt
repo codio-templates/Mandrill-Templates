@@ -1,0 +1,10 @@
+Hello {{name}},
+
+Your LMS, {{consumer}}, has requested access to connect to your Codio account. This is your verification email. 
+
+Open a link {{codioLtiConnectUrl}}{{token}} or insert your code {{token}} into the field. 
+
+Any questions, please email us at help@codio.com
+
+Thank you,
+Codio

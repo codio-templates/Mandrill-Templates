@@ -1,0 +1,31 @@
+IMPORTANT!
+
+We are sorry to say that the payment for your Codio Subscription has been declined. We have been unable to take payment from your credit card.
+
+{{#if isSoftDecline}}
+{{#if isOrg}}
+Don't worry! Your subscription is still active and you and your team can still access all your private and public projects. We will try to take payment again in a few days time, and will email you to let you know the outcome of that.
+
+If you need to update your credit card, sign in to your Codio account at https://codio.com. Go to your dashboard and to 'Organisation>Billing' to access your subscription and payment details.
+{{else}}
+Don't worry! Your subscription is still active and you can still access all your private and public projects. We will try to take payment again in a few days time, and will email you to let you know the outcome of that.
+
+If you need to update your credit card, sign in to your Codio account at https://codio.com. Go to your dashboard and click the 'Codio > Subscription' menu item to access your subscription and payment details.
+{{/if}}
+{{else}}
+{{#if isOrg}}
+Don't worry! Your subscription is still active and you and your team can still access all your private and public projects but you need to update your credit card details.
+
+Sign in to your Codio account at https://codio.com. Go to your dashboard and to 'Organisation>Billing' to access your subscription and payment details and we will try to take the payment again.
+{{else}}
+Don't worry! Your subscription is still active and you can still access all your private and public projects but you need to update your credit card details.
+
+Sign in to your Codio account at https://codio.com. Go to your dashboard and click the 'Codio > Subscription' menu item to access your subscription and payment details and we will try to take the payment again.
+{{/if}}
+{{/if}}
+
+If you have any questions, just reply to this email.
+
+Regards,
+Codio Support Team
+https://codio.com

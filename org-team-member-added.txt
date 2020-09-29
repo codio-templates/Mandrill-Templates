@@ -1,0 +1,17 @@
+Hi {{userLogin}}
+
+{{#if teamSlug}}
+You have been added to the {{teamName}} of the Organization '{{orgName}}' on Codio at {{codioClientUrl}}/home/orgs/{{orgSlug}}/teams/{{teamSlug}}.
+{{else}}
+You have been added to the Organization '{{orgName}}' on Codio at {{codioClientUrl}}/home/orgs/{{orgSlug}}.
+{{/if}}
+
+
+
+Questions? Please reply to this email. 
+
+Regards,
+
+Codio 
+https://Codio.com
+https://twitter.com/CodioHQ

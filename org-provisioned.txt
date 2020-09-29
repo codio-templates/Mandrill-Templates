@@ -1,0 +1,23 @@
+{{#if userName}} Hello {{userName}}, {{else}} Hello, {{/if}} 
+
+User Email: {{userEmail}} {{#if orgName}} Organization name : {{orgName}}
+
+Thank you for your interest in Codio!
+
+Your account is now ready to use.
+
+To login to your Codio account, go to {{codioUrl}}/p/login and login with your email address and the password created when you signed up.
+
+
+Here are a few resources to help you get started:
+
+Take a tour of Codio with our Onboarding Guide. Click on My Projects in your dashboard to find it.
+
+For an overview of the product, watch our getting started videos:
+https://tinyurl.com/codio-getting-started
+
+For a complete reference see the Codio documentation:
+https://docs.codio.com/
+
+View our wide range of curricular resources, that are ready to use, in our resource library: 
+https://www.codio.com/resources
