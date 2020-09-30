@@ -1,0 +1,15 @@
+ {{#if orgName}}
+Thank you so much for creating a new Codio subscription for the organization '{{orgName}}'. The members of the organization can now create an unlimited number of private and public projects.
+{{else}}
+Thank you so much for creating a new Codio subscription for the account '{{userName}}'. You can now create an unlimited number of private and public projects.
+{{/if}}
+
+Your credit card has been billed successfully for your first month's payment, and we will email you separately to confirm the payment. One/Two semester plans are not recurring and no further payments will be taken 
+
+If you have started a recurring plan, your next payment will be requested on {{nextPaymentDate}} 
+
+If you have any questions or comments, you can reach us at help@codio.com.
+
+Regards,
+Codio Support Team
+https://codio.com

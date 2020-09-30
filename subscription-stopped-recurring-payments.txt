@@ -1,0 +1,21 @@
+{{#if orgName}}
+We're sorry to see you go, but the subscription for your organization '{{orgName}}' has been cancelled as requested.
+{{else}}
+We're sorry to see you go, but your Codio subscription has been cancelled as requested.
+{{/if}}
+
+If you did not make this request or made it in error, please email us at help@codio.com and we will sort it out for you.
+
+{{#if endDate}}
+{{#if orgName}}
+The members of your organization can continue using their private projects until your current payment period has ended ({{endDate}}). However, the private projects of the members of your organization will be disabled, and they will not be able to create any private projects. Please be sure to change all the private projects to public before {{endDate}}.
+{{else}}
+You can continue to use your private projects until your current payment period ends on {{endDate}}. At which point, all private projects will be disabled, and you will not be able to create any private projects. Please be sure to change any private projects to public before {{endDate}}.
+{{/if}}
+{{/if}}
+
+Thank you again for using Codio and we wish you all the best.
+
+Regards,
+Codio Support Team
+https://codio.com
