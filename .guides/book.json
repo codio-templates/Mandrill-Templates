@@ -1,0 +1,17 @@
+{
+ "name": "Templates for Mandrill",
+ "children": [
+  {
+   "title": "Templates for Mandrill",
+   "id": "6d66fe4b-ba50-f592-d1ee-37689f166258",
+   "pageId": "6d66fe4b-ba50-f592-d1ee-37689f166258",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "81f8ac65-1361-8273-2bc2-1eca34cf229b",
+   "pageId": "81f8ac65-1361-8273-2bc2-1eca34cf229b",
+   "type": "page"
+  }
+ ]
+}

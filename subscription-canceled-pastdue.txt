@@ -3,7 +3,7 @@ We're sorry but your Codio subscription has now been cancelled as we've been una
 {{#if isOrg}}
 The private projects of the members of your organization will be disabled, and they will not be able to create any further private projects.
 
-You may re subscribe at any time in the future to regain access to these projects by going to Organisations > Billing
+You may re subscribe at any time in the future to regain access to these projects by going to Organizations > Billing
 {{else}}
 Access to your private projects has been disabled, and you will not be able to create any private projects.
 
