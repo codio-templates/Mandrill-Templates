@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>    
+<body>
+<img src="https://global.codio.com/content/logo_print.png" alt="Codio" style="width:133px;height:50px;" class="center">
+<br>
+<p>
+{{#if orgName}}
+Thank you so much for creating a new Codio subscription for the organization '{{orgName}}'. <br><br>The members of the organization can now create an unlimited number of private and public projects.
+{{else}}
+Thank you so much for creating a new Codio subscription for the account '{{userName}}'. <br><br>You can now create an unlimited number of private and public projects.
+{{/if}}
+</p>
+    
+<p>Your credit card has been billed successfully for your first month's payment, and we will email you separately to confirm the payment. One/Two semester plans are not recurring and no further payments will be taken 
+</p>
+    
+<p>If you have started a recurring plan, your next payment will be requested on {{nextPaymentDate}} 
+</p>
+    
+<p>If you have any questions or comments, you can reach us at help@codio.com.
+</p>
+
+
+<br><br>
+Regards,<br>
+Codio Support Team<br>
+<a href="https://codio.com">https://codio.com</a>
+    
+</body>
+
+</html>

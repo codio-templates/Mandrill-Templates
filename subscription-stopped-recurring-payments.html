@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>    
+<body>
+<img src="https://global.codio.com/content/logo_print.png" alt="Codio" style="width:133px;height:50px;" class="center">
+<br>
+<p>
+{{#if orgName}}
+We're sorry to see you go, but the subscription for your organization '{{orgName}}' has been cancelled as requested.
+{{else}}
+We're sorry to see you go, but your Codio subscription has been cancelled as requested.
+{{/if}}
+</p>
+<p>If you did not make this request or made it in error, please email us at <a href="https://codio.com">https://codio.com</a> and we will sort it out for you.
+</p>
+<p>
+{{#if endDate}}
+{{#if orgName}}
+The members of your organization can continue using their private projects until your current payment period has ended ({{endDate}}). However, the private projects of the members of your organization will be disabled, and they will not be able to create any private projects. 
+<br><br>Please be sure to change all the private projects to public before {{endDate}}.
+{{else}}
+<br><br>
+You can continue to use your private projects until your current payment period ends on {{endDate}}. At which point, all private projects will be disabled, and you will not be able to create any private projects. 
+<br><br>Please be sure to change any private projects to public before {{endDate}}.
+{{/if}}
+{{/if}}
+</p>
+<p>
+Thank you again for using Codio and we wish you all the best.
+</p>
+Regards,<br>
+Codio Support Team<br>
+<a href="https://codio.com">https://codio.com</a>
+    
+</body>
+
+</html>
