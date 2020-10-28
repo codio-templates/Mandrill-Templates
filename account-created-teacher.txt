@@ -17,7 +17,7 @@ For a complete reference see the Codio documentation: https://docs.codio.com/
 
 View information about our wide range of curricular resources, that are ready to use, in our resource library documentation: https://docs.codio.com/resources/Codio-Resources/ 
 
-Sign up for an onboarding session: https://tinyurl.com/codio-onboarding
+Sign up for an onboarding session: https://app.hubspot.com/meetings/sjason1/customer-success-session
     
 
 Regards,
