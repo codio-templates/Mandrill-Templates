@@ -1,0 +1,15 @@
+Hi there,
+
+Your account has been upgraded and you can now add students to your courses.
+Here's how:
+
+  Step 1: Login to your account - https://codio.com/p/login
+
+  Step 2. Make sure that you have created your course. Here is a quick video that shows you how to create a course using Codio's Course Resources https://tinyurl.com/useresource.
+
+  Step 3. Open your course and begin adding students. This quick video shows you how to add students to your course https://tinyurl.com/addstudentsvideo.
+
+Questions? Our customer success team is here to help! Schedule a one-on-one onboarding session, tailored to your use-case.
+
+Regards,
+Codio 
