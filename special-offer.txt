@@ -1,5 +1,3 @@
-Hi there,
-
 Your account has been upgraded and you can now add students to your courses.
 Here's how:
 
@@ -9,7 +7,4 @@ Here's how:
 
   Step 3. Open your course and begin adding students. This quick video shows you how to add students to your course https://tinyurl.com/addstudentsvideo.
 
-Questions? Our customer success team is here to help! Schedule a one-on-one onboarding session, tailored to your use-case.
-
-Regards,
-Codio 
+Questions? Our customer success team is here to help! Schedule a one-on-one onboarding session https://app.hubspot.com/meetings/sjason1/codio-overview, tailored to your use-case.
