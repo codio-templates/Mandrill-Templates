@@ -1,4 +1,4 @@
-{{date}}
+
 
 
 Hi,
@@ -6,16 +6,17 @@ Hi,
 Thank you for considering Codio. The enclosed quote is based on the information you provided through our online quote bot.  Pricing is based on your organization type and the number of student licenses requested. This quote is valid for 30 days.
 
 {{#if school}}
-    This quote of ${{annual_price}} is calculated based on {{num_students}} for {{segment}} organizations for the duration of one year.
-    
+Codio Quote: {{date "m/d/Y"}}
+Annual license = ${{annual_price}}
+This quote is calculated based on {{num_students}} students for your {{segment}} organization.
 {{else}}
-
-    For an annual license the cost will be ${{annual_price}}, a semester license will be ${{semester_price}}
-    
+Codio Quote: {{date m/d/Y}}
+Semester license = ${{semester_price}}
+Annual license = ${{annual_price}}
 {{/if}}
     
-If you have questions, would like more information or an invoice, please contact us at https://www.codio.com/contact-us and someone will get back to you as quickly as possible. 
+If you have questions or would like more information or an invoice, please contact us at https://www.codio.com/contact-us and someone will get back to you as quickly as possible. 
 
-We are looking forward to working with you.
+We are looking forward to working with you!
 
 Team Codio
