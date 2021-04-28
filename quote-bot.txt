@@ -1,0 +1,20 @@
+Hi {{userName}},
+
+Welcome to Codio!
+
+{{#if school}}
+    This quote of {{annual_price}} is calculated based on {{num_students}} for {{segment}} organizations for the duration of one year.
+    
+{{else}}
+
+    For an annual license the cost will be {{annual_price}}, a semester license will be {{semester_price}}
+    
+{{/if}}
+    
+    To view this {{invoice_link}} you must have a Codio account.
+    
+    This quote is good for two weeks.
+
+Regards,
+
+Codio

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>    
+<body>
+
+<img src="https://global.codio.com/content/logo_print.png" alt="Codio" style="width:133px;height:50px;" class="center">
+<br><br>
+{{#if name}}
+Hi {{name}},
+{{else}}
+Hi,
+{{/if}}<br/><br/>
+
+<h3>Thank you for your interest in Codio!</h3>
+<br>
+
+{{#if school}}
+    This quote of {{annual_price}} is calculated based on {{num_students}} for {{segment}} organizations for the duration of one year.
+    
+{{else}}
+
+    For an annual license the cost will be {{annual_price}}, a semester license will be {{semester_price}}
+    
+{{/if}}
+    
+    To view this {{invoice_link}} you must have a Codio account.
+    
+    This quote is good for two weeks.
+
+Regards,<br>
+
+Codio
+
+</body>
+
+</html>
