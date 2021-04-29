@@ -1,7 +1,11 @@
 
 
 
+{{#if userName}}
+Hi {{userName}},
+{{else}}
 Hi,
+{{/if}}
 
 Thank you for considering Codio. The enclosed quote is based on the information you provided through our online quote bot.  Pricing is based on your organization type and the number of student licenses requested. This quote is valid for 30 days.
 
