@@ -20,4 +20,4 @@ For a complete reference see the Codio documentation:
 https://docs.codio.com/
 
 View our wide range of curricular resources, that are ready to use, in our resource library: 
-https://www.codio.com/resources
+https://docs.codio.com/instructors/setupcourses/resources/codioresources.html

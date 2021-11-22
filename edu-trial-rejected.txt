@@ -10,9 +10,9 @@ We would be happy to review this decision if you are able to provide some eviden
   
 Suitable evidence could be a link to your entry in your institution's online directory, proof of your name and job title, LinkedIn profile, reference, or any scanned documentation.
 
-If you are a student attempting to join an existing class, contact your teacher for the Class Invite URL. See https://docs.codio.com/students/#joining-a-course for more information.
+If you are a student attempting to join an existing course, contact your teacher for the Course Invite URL. See https://docs.codio.com/accessing-codio.html for more information.
 
-If you are trying to join as a teacher, please contact the Administrator of the organisation and they can invite you into the organisation. See https://docs.codio.com/dashboard/organisations/#add-teachers for more information.
+If you are trying to join as a teacher, please contact the Administrator of the organisation and they can invite you into the organisation. See https://docs.codio.com/instructors/admin/organization/add-teachers.html#add-teachers-org for more information.
 
 Kind regards, 
 

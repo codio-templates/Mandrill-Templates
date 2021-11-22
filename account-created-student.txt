@@ -1,11 +1,10 @@
-
 Hi {{userName}},
 
 Welcome to Codio!
 
 To login to your Codio account, go to {{codioUrl}}/p/login and login with your email address and the password created when you signed up.
 
-Information about using Codio may be found in the documentation for students: https://docs.codio.com/students/. 
+Information about using Codio may be found in the documentation for students: https://docs.codio.com/student.html. 
 
 For course specific questions speak to your instructor. If you have a Codio technical issue you can access product support from the dashboard, or the Help > Support menu when in an assignment, or you can email help@codio.com.
   

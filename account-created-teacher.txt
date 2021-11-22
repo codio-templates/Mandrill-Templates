@@ -1,4 +1,3 @@
-
 Hi {{userName}},
 
 Welcome to Codio!
@@ -15,7 +14,7 @@ We have a complete set of getting started videos: https://tinyurl.com/codio-gett
 
 For a complete reference see the Codio documentation: https://docs.codio.com/
 
-View information about our wide range of curricular resources, that are ready to use, in our resource library documentation: https://docs.codio.com/resources/Codio-Resources/ 
+View information about our wide range of curricular resources, that are ready to use, in our resource library documentation: https://docs.codio.com/instructors/setupcourses/resources/codioresources.html
 
 Sign up for an onboarding session: https://app.hubspot.com/meetings/sjason1/customer-success-session
     
