@@ -11,7 +11,7 @@ To login to your Codio account, go to {{codioUrl}}/p/login and login with your e
 
 Here are a few resources to help you get started:
 
-Take a tour of Codio with our Onboarding Guide. Click on My Projects in your dashboard to find it.
+Take a tour of Codio with our Onboarding Guide. Click on My Projects https://codio.com/home/projects in your dashboard to find it.
 
 For an overview of the product, watch our getting started videos:
 https://tinyurl.com/codio-getting-started
