@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<style>
+.center {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+}
+</style>
+<body>
+<img src="https://global.codio.com/content/logo_print.png" alt="Codio" style="width:133px;height:50px;" class="center">
+<br><br>
+<br><br>
+
+{{#if orgName}}
+Hi {{orgName}},
+{{else}}
+Hi,
+{{/if}}
+
+<br/><br/>
+Thank you for your interest in Codio. 
+
+<br><br>
+
+Please click <a href="{{confirmUrl}}">confirm quote </a> to accept this quote.
+<br><br>
+To reject your quote please click <a href="{{declineUrl}}">this link </a>.
+<br><br>
+We are looking forward to working with you!
+<br><br>
+
+Team Codio
+</body>
+</html>

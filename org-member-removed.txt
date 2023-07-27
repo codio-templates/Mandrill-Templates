@@ -2,7 +2,7 @@ Hi {{userName}}
 
 We just wanted to let you know that '{{ownerName}}' has just removed you as a member of the '{{orgName}}' Organization on Codio.
 
-If you do not have an individual account, you will not be able to access any projects. To regain access to your projects, you can create a new individual subscription at {{codioClientUrl}}/home/settings/?tab=billing.
+If you do not have an individual account, you will not be able to access any projects. To regain access to your projects, you can create a new individual subscription at {{codioClientUrl}}/home/settings/billing.
 
 Just hit reply if you need any help. 
 

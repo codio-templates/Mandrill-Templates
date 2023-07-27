@@ -5,7 +5,7 @@ This is an automated email to let you know that {{ownerName}} has just removed t
 
 You should be aware that if you do not have a personal Subscription, any private projects you currently have will now be inaccessible. This is because being a member of an Organization allows you to create private projects without requiring a personal Subscription.
 
-To regain access to your private projects, you should create a new Personal Subscription at {{codioClientUrl}}/home/settings/?tab=billing.
+To regain access to your private projects, you should create a new Personal Subscription at {{codioClientUrl}}/home/settings/billing.
 
 While your private projects will not be accessible within Codio without an active Subscription, you can still export them for use outside of Codio, or even remove them if you no longer require them.
 

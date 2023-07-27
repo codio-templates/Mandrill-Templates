@@ -1,0 +1,17 @@
+{{#if orgName}}
+Hi {{orgName}},
+{{else}}
+Hi,
+{{/if}}
+
+
+Thank you for your interest in Codio. 
+
+To confirm your quote please click this link: {{confirmUrl}}.
+
+To reject your quote please click this link: {{declineUrl}}.
+    
+We are looking forward to working with you!
+
+
+Team Codio

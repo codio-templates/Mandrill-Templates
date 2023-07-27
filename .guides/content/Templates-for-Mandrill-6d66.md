@@ -32,3 +32,4 @@ The names of the files in this project correspond with template name/slug in Man
 |[HTML](open_file subscription-started-recurring-payments.html)| [text](open_file subscription-started-recurring-payments.txt)| [subscription-started-recurring-payments](https://mandrillapp.com/templates/code?id=subscription-started-recurring-payments)| You have been billed |
 |[HTML](open_file subscription-stopped-recurring-payments.html)| [text](open_file subscription-stopped-recurring-payments.txt)| [subscription-stopped-recurring-payments](https://mandrillapp.com/templates/code?id=subscription-stopped-recurring-payments)| You have requested to no longer be billed |
 |[HTML](quote-bot.html)| [text](quote-bot.html.txt)| [quote-bot](https://mandrillapp.com/templates/code?id=quote-bot)| Quote for a Codio subscription |
+|[HTML](xero-quote.html)| [text](xero-quote.txt)| [xero-quote](https://mandrillapp.com/templates/code?id=xero-quote)| Accept or decline a quote |
